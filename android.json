@@ -1,0 +1,5 @@
+{
+    "android_icon": "/res/icon/twitch-streams.png",
+    "android_name": "Twitch Streams",
+    "android_handler": "twitchstreams.aiix.home"
+}
