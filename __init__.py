@@ -25,7 +25,7 @@ class TwitchStreams(MycroftSkill):
     def initialize(self):
         self.load_data_files(dirname(__file__))
 
-        self.bus.on('twitchstreams.aiix.home', self.launcher_id)
+        self.bus.on('twitch-streams.aiix.home', self.launcher_id)
         self.gui.register_handler('twitchstreams.aiix.playstream',
                                   self.play_stream)
         self.gui.register_handler('twitchstreams.aiix.playerStatus', self.handle_player_states)
