@@ -2,7 +2,7 @@
 Play Live Twitch Streams
 
 ## About
-Play Live Twitch Streams
+Play Live Twitch Streams 
 
 ## Examples
 * "Hey Mycroft Show Twitch Streams"
